@@ -1,0 +1,82 @@
+ .btm {
+    width: 230px;
+    height: 40px;
+    background: #2adcbc;
+    font: 25px kelt;
+    margin-left: 350px kelt;
+}   
+  
+.reg {
+    border: 0;
+    width: 65px;
+    height: 55px;
+    background: #bfece9;
+}
+  
+input {
+    width: 350px;
+    height: 45px;
+    background: #2adcbc;
+    color: #000;
+    font: 20px kelt;
+}
+
+img{
+    width: 50px;
+    height: 50px;
+}
+  
+.logotip {
+    border: 0;
+    font: 55px GABRIOLA, sans-serif;
+    background: #bfece9;
+}  
+    
+button {
+    width: 300px;
+    height: 40px;
+    background: #2adcbc;
+    font: 25px kelt;
+    margin-left: 350px kelt;
+}
+
+.text-block{
+    margin:20px;
+}
+.text-block1{
+    margin:10px;
+}
+.produkt{
+    width: 270px;
+    height: 215px;
+    background: #ffffff;
+    border: 2px solid #2adcbc;
+}
+
+.figure-caption{
+    width: 250px;
+    height: 43px;
+    background: #E5E5E5;
+    font: 18px kelt !important;
+    color: #000000 !important;
+}
+
+.corzina{
+    width: 20px;
+    height: 20px; 
+}
+
+.tovar{
+    width: 250px;
+    height: 150px;
+}
+
+footer {
+    font: 20px ABeeZee, sans-serif;
+    width: 100%;
+    height: 100%;
+}  
+
+.container-fluid {
+    background-color: #BFECE9
+}
